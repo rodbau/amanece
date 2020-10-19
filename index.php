@@ -41,7 +41,6 @@
             <li class="nav-item"><a class="nav-link" href="#section-home">Inicio</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-about">Sobre Nosotros</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-team">Equipo</a></li>
-            <li class="nav-item"><a class="nav-link" href="#section-news">Novedades</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-products">Productos</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-contact">Contacto</a></li>
           </ul>
