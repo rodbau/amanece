@@ -26,7 +26,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark pb_navbar pb_scrolled-light" id="templateux-navbar">
       <div class="container">
-        <a class="navbar-brand" href="index.html"> <img src="images/logo.PNG" width="50px" height="50px"></a>
+        <a class="navbar-brand"> <img src="images/logo.PNG" width="50px" height="50px"></a>
         <div class="site-menu-toggle js-site-menu-toggle  ml-auto"  data-aos="fade" data-toggle="collapse" data-target="#templateux-navbar-nav" aria-controls="templateux-navbar-nav" aria-expanded="false" aria-label="Toggle navigation">
               <span></span>
               <span></span>
@@ -39,6 +39,7 @@
             <li class="nav-item"><a class="nav-link" href="#section-home">Inicio</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-about">Sobre Nosotros</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-team">Equipo</a></li>
+            <li class="nav-item"><a class="nav-link" href="#section-news">Novedades</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-products">Productos</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-contact">Contacto</a></li>
           </ul>
@@ -51,7 +52,7 @@
         <div class="container">
           <div class="row site-hero-inner justify-content-center align-items-center">
             <div class="col-md-10 text-center" data-aos="fade-up">
-              <h1 class="heading">Bienvenidos a Amanecer</h1>
+              <h1 class="heading">Bienvenidos a Amanece</h1>
             </div>
           </div>
         </div>
@@ -68,11 +69,9 @@
             </div>
             <div class="col-md-12 col-lg-4 order-lg-1" data-aos="fade-up">
               <h2 class="heading mb-4">Sobre Nosotros</h2>
-              <p class="mb-5">Amanece nació para brindar un servicio de excelencia en el cuidado de la piel y el bienestar personal.
-                Nuestra misión es brindarte un trato personalizado, asesorarte en tus rutinas basicas para proteger y cuidar lo más preciado que tenes: tu cuerpo. 
-                Conocemos todos los productos que Mary Kay tiene para cada una de tus necesidades. Y queremos que los conozcas.
-                Somos un equipo que está creciendo y capacitandose dia a dia.
-                Te invitamos a formar parte de Amanece.</p>
+              <p class="mb-5">Amanece nació para brindar un servicio de excelencia en el cuidado de la piel y el bienestar personal. Nuestra misión es brindarte un trato personalizado, asesorarte en tus rutinas básicas para proteger y cuidar lo más preciado que tenes: tu cuerpo. Conocemos todos los productos que Mary Kay tiene para cada una de tus necesidades. Y queremos que los conozcas.
+Somos Consultores Independientes de Mary Kay. Formamos un equipo que está creciendo y capacitándose día a día. 
+Te invitamos a formar parte de Amanece.</p>
             </div>
             
           </div>
