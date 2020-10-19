@@ -302,7 +302,7 @@
             <p class="col-md-1 text-right social">
               <a href="https://www.facebook.com/Amanece-Argentina-111084110765846/"><span class="fa fa-facebook"></span></a>
               <a href="https://www.instagram.com/amanece.arg/"><span class="fa fa-instagram"></span></a>
-              <a href="https://api.whatsapp.com/send?phone=541159970894&text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20Amanecer!"><span class="fa fa-whatsapp"></span></a>
+              <a href="https://api.whatsapp.com/send?phone=541159970894&text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20Amanece!"><span class="fa fa-whatsapp"></span></a>
             </p>
           </div>
         </div>
