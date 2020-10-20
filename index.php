@@ -302,7 +302,7 @@
           <div class="col-md-4 mb-5 pr-md-5 contact-info">
             <p><span class="d-block"><span class="ion-ios-location h5 mr-3 text-primary"></span>Localidad:</span> <span> Lanús, <br> Bs. As. Argentina</span></p>
             <p><span class="d-block"><span class="ion-ios-telephone h5 mr-3 text-primary"></span>Teléfono:</span> <span> +541159970894 Carolina<br>+541168922663 Domingo </span></p>
-            <p><span class="d-block"><span class="ion-ios-email h5 mr-3 text-primary"></span>Email:</span> <span> carolina.curutchet@gmail.com</span></p>
+            <p><span class="d-block"><span class="ion-ios-email h5 mr-3 text-primary"></span>Email:</span> <span> info.amanecearg@gmail.com</span></p>
           </div>
           <p class="col-md-1 text-right social">
             <a href="https://www.facebook.com/Amanece-Argentina-111084110765846/"><span class="fa fa-facebook"></span></a>
