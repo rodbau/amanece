@@ -94,7 +94,7 @@
               <div class="front" style="background-image: url(images/person_3.jpg);">
                 <div class="box">
                   <h2>Domingo Golia</h2>
-                  <p></p>
+                  <p>domingo.amanecearg@gmail.com</p>
                 </div>
               </div>
               <div class="back">
@@ -124,7 +124,7 @@
               <div class="front" style="background-image: url(images/person_1.jpg);">
                 <div class="box">
                   <h2>Carolina Curutchet</h2>
-                  <p></p>
+                  <p>carolina.amanecearg@gmail.com</p>
                 </div>
               </div>
               <div class="back">
