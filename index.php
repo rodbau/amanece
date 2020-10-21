@@ -262,7 +262,7 @@
 
 
           </div>
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbIRNFWxBog3PBGbWmzn4tGPYhzPlZtxliMZwB_wBA_93jpA/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScfUicMDm5aYuCn7fSeF-_muLcH11GlMzctzaXqlcvdiMn14A/viewform?embedded=true" width="640" height="770" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
 
         </div>
 
@@ -301,13 +301,13 @@
           </div>
           <div class="col-md-4 mb-5 pr-md-5 contact-info">
             <p><span class="d-block"><span class="ion-ios-location h5 mr-3 text-primary"></span>Localidad:</span> <span> Lanús, <br> Bs. As. Argentina</span></p>
-            <p><span class="d-block"><span class="ion-ios-telephone h5 mr-3 text-primary"></span>Teléfono:</span> <span> +541159970894 Carolina<br>+541168922663 Domingo </span></p>
+            <p><span class="d-block"><span class="ion-ios-telephone h5 mr-3 text-primary"></span>Teléfono:</span> <span> +541159970894 Carolina <a href="https://api.whatsapp.com/send?phone=541159970894&text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20Amanece!"><span class="fa fa-whatsapp"></span></a> <br>+541168922663 Domingo <a href="https://api.whatsapp.com/send?phone=541168922663&text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20Amanece!"><span class="fa fa-whatsapp"></span></a></span></p>
             <p><span class="d-block"><span class="ion-ios-email h5 mr-3 text-primary"></span>Email:</span> <span> info.amanecearg@gmail.com</span></p>
           </div>
           <p class="col-md-1 text-right social">
             <a href="https://www.facebook.com/Amanece-Argentina-111084110765846/"><span class="fa fa-facebook"></span></a>
             <a href="https://www.instagram.com/amanece.arg/"><span class="fa fa-instagram"></span></a>
-            <a href="https://api.whatsapp.com/send?phone=541159970894&text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20Amanece!"><span class="fa fa-whatsapp"></span></a>
+            
           </p>
         </div>
       </div>
