@@ -41,13 +41,13 @@
             <li class="nav-item"><a class="nav-link" href="#section-home">Inicio</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-about">Sobre Nosotros</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-team">Equipo</a></li>
+            <li class="nav-item"><a class="nav-link" href="#section-events">Tips</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-products">Productos</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-contact">Contacto</a></li>
           </ul>
         </div>
       </div>
     </nav>
-    <!-- END nav -->
 
     <section class="site-hero overlay" style="background-image: url(images/hero_5.jpg)" data-stellar-background-ratio="0.5" id="section-home">
       <div class="container">
@@ -58,7 +58,6 @@
         </div>
       </div>
     </section>
-    <!-- END section -->
 
 
 
@@ -145,9 +144,51 @@
 
       </div>
     </div>
-    <!-- END .block-2 -->
 
+    <section class="section blog-post-entry bg-light" id="section-events">
+      <div class="container">
+        <div class="row justify-content-center text-center mb-5">
+          <div class="col-md-7">
+            <h2 class="heading" data-aos="fade-up">Tips</h2>
+            <p data-aos="fade-up">En este espacio les compartiremos algunos tips para ayudar al cuidado de uno mismo todos los días. </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="100">
 
+            <div class="media media-custom d-block mb-4 h-100">
+              <a href="#" class="mb-4 d-block"><img src="images/hero_4.jpg" alt="Image placeholder" class="img-fluid"></a>
+              <div class="media-body">
+                <span class="meta-post"> </span>
+                <h2 class="mt-0 mb-3"><a href="#">Tip 1</a></h2>
+                <p>Usar un buen protector solar es clave para protegernos de los rayos UVA y UVB, fijate que sea a prueba de agua y resistente al sudor.</p>
+              </div>
+            </div>
+
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="200">
+            <div class="media media-custom d-block mb-4 h-100">
+              <a href="#" class="mb-4 d-block"><img src="images/hero_4.jpg" alt="Image placeholder" class="img-fluid"></a>
+              <div class="media-body">
+                <span class="meta-post"> </span>
+                <h2 class="mt-0 mb-3"><a href="#">Tip 2 </a></h2>
+                <p>De nada sirve cuidar nuestra piel únicamente cuando vemos que su aspecto no es bueno. En el cuidado de la piel, la prevención y la constancia son la clave. </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="300">
+            <div class="media media-custom d-block mb-4 h-100">
+              <a href="#" class="mb-4 d-block"><img src="images/hero_4.jpg" alt="Image placeholder" class="img-fluid"></a>
+              <div class="media-body">
+                <span class="meta-post"> </span>
+                <h2 class="mt-0 mb-3"><a href="#">Tip 3</a></h2>
+                <p>El agua caliente puede causar flacidez y resecar tu piel. Por el contrario el agua fría ayuda a tonificar y conservar los aceites naturales de la piel. </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
 
     <section class="section slider-section bg-light" id="section-products">
@@ -155,7 +196,7 @@
         <div class="row justify-content-center text-center mb-5">
           <div class="col-md-7">
             <h2 class="heading" data-aos="fade-up">Productos</h2>
-            <p data-aos="fade-up" data-aos-delay="100">Les acercamos algunos de los mejores productos que ofrecemos.</p>
+            <p data-aos="fade-up" data-aos-delay="100">Les acercamos algunos de los mejores productos que ofrecemos. Para acceder al catálogo completo hacé click en el siguiente ícono. <a class="fa fa-file fa-lg" style="color: gray;" href="images/CatalogoSkinCare.pdf" target="_blank"></a></p>
           </div>
         </div>
         <div class="row">
@@ -187,11 +228,7 @@
         </div>
       </div>
     </section>
-    <!-- END section -->
 
-
-
-    <!-- END section -->
     <section class="section testimonial-section">
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
@@ -295,6 +332,7 @@
               <li><a class="nav-link" href="#section-home">Inicio</a></li>
               <li><a class="nav-link" href="#section-about">Sobre Nosotros</a></li>
               <li><a class="nav-link" href="#section-team">Equipo</a></li>
+              <li><a class="nav-link" href="#section-events">Tips</a></li>
               <li><a class="nav-link" href="#section-products">Productos</a></li>
               <li><a class="nav-link" href="#section-contact">Contacto</a></li>
             </ul>
@@ -302,7 +340,7 @@
           <div class="col-md-4 mb-5 pr-md-5 contact-info">
             <p><span class="d-block"><span class="ion-ios-location h5 mr-3 text-primary"></span>Localidad:</span> <span> Lanús, <br> Bs. As. Argentina</span></p>
             <p><span class="d-block"><span class="ion-ios-telephone h5 mr-3 text-primary"></span>Teléfono:</span> <span> +541159970894 Carolina <a href="https://api.whatsapp.com/send?phone=541159970894&text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20Amanece!"><span class="fa fa-whatsapp"></span></a> <br>+541168922663 Domingo <a href="https://api.whatsapp.com/send?phone=541168922663&text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20Amanece!"><span class="fa fa-whatsapp"></span></a></span></p>
-            <p><span class="d-block"><span class="ion-ios-email h5 mr-3 text-primary"></span>Email:</span> <span> info.amanecearg@gmail.com</span></p>
+            <p><span class="d-block"><span class="ion-ios-email h5 mr-3 text-primary"></span>Email:</span> <span><a href="mailto:info.amanecearg@gmail.com">info.amanecearg@gmail.com</a></span></p>
           </div>
           <p class="col-md-1 text-right social">
             <a href="https://www.facebook.com/Amanece-Argentina-111084110765846/"><span class="fa fa-facebook"></span></a>
