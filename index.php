@@ -196,7 +196,7 @@
         <div class="row justify-content-center text-center mb-5">
           <div class="col-md-7">
             <h2 class="heading" data-aos="fade-up">Productos</h2>
-            <p data-aos="fade-up" data-aos-delay="100">Les acercamos algunos de los mejores productos que ofrecemos. Para acceder al catálogo completo hacé click en el siguiente ícono. <a class="fa fa-file fa-lg" style="color: gray;" href="images/CatalogoSkinCare.pdf" target="_blank"></a></p>
+            <p data-aos="fade-up" data-aos-delay="100">Les acercamos algunos de los mejores productos que ofrecemos. Para acceder al catálogo completo hacé click en el siguiente ícono. <a class="fa fa-file fa-lg" style="color: gray;" href="images/Look_Primavera_2020_web_v2.pdf" target="_blank"></a></p>
           </div>
         </div>
         <div class="row">
