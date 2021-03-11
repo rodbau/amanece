@@ -43,6 +43,7 @@
             <li class="nav-item"><a class="nav-link" href="#section-team">Equipo</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-events">Tips</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-products">Productos</a></li>
+            <li class="nav-item"><a class="nav-link" href="http://marykay.com.ar/?&docid=8466065f-f4e1-4ae1-9213-1a76a8ae6ca9&t=ecat_LookBook%20Marzo%20Abril%202021&cid=eCat_app_Share" target="_blank">Catálogo</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-contact">Contacto</a></li>
           </ul>
         </div>
@@ -129,7 +130,7 @@
               <div class="back">
                 <!-- back content -->
                 <blockquote>
-                  <p>&ldquo;Contadora Pública desde hace 14 años y Consultora Independiente de Mary Kay desde hace más de 2 años. Su trayectoria avalada por su experiencia, capacitaciones y seminarios será el pilar principal para diseñar la rutina que más se adecue al bienestar de nuestros clientes. Es la persona que capacitará continuamente a los que decidan sumarse al equipo.&rdquo;</p>
+                  <p>&ldquo;Contadora Pública desde hace 14 años y Directora de Ventas Independiente de Mary Kay desde hace más de 2 años. Su trayectoria avalada por su experiencia, capacitaciones y seminarios será el pilar principal para diseñar la rutina que más se adecue al bienestar de nuestros clientes. Es la persona que capacitará continuamente a los que decidan sumarse al equipo.&rdquo;</p>
                 </blockquote>
                 <div class="author d-flex">
                   <div class="image mr-3 align-self-center">
@@ -144,6 +145,22 @@
 
       </div>
     </div>
+
+            <div class="row">
+          <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="media media-custom d-block mb-4 h-100">
+              <a href="#" class="mb-12 d-block"><img src="images/hero_4.jpg" alt="Image placeholder" class="img-fluid"></a>
+              <div class="media-body">
+                <span class="meta-post"> </span>
+                <h2 class="mt-0 mb-3"><a href="#">Integrantes del equipo</a></h2>
+                <p>Cecilia - Judit - Maria del Carmen - Victor - Mirta - Lorena D - Paula - Fiorella - Lorena H - Vanesa - Victoria - Silvia</p>
+              </div>
+            </div>
+
+          </div>
+
+      </div>
 
     <section class="section blog-post-entry bg-light" id="section-events">
       <div class="container">
