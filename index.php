@@ -43,7 +43,7 @@
             <li class="nav-item"><a class="nav-link" href="#section-team">Equipo</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-events">Tips</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-products">Productos</a></li>
-            <li class="nav-item"><a class="nav-link" href="https://www.marykay.com.ar/ecatalog?&docid=8466065f-f4e1-4ae1-9213-1a76a8ae6ca9&cid=direct&t=eCat_LookBookMarzoAbril2021" target="_blank">Catálogo</a></li>
+            <li class="nav-item"><a class="nav-link" href="images/LookMarzoAbril2021web2_V" target="_blank">Catálogo</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-contact">Contacto</a></li>
           </ul>
         </div>
