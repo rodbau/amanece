@@ -149,8 +149,7 @@
             <div class="row">
           <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="100">
 
-            <div class="media media-custom d-block mb-4 h-100">
-              <a href="#" class="mb-12 d-block"><img src="images/hero_4.jpg" alt="Image placeholder" class="img-fluid"></a>
+            <div class="media media-custom d-block mb-12 h-100">
               <div class="media-body">
                 <span class="meta-post"> </span>
                 <h2 class="mt-0 mb-3"><a href="#">Integrantes del equipo</a></h2>
