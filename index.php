@@ -146,7 +146,7 @@
       </div>
 
                   <div class="row">
-          <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-12 col-md-12 col-sm-12 col-12 post" data-aos="fade-up" data-aos-delay="100">
 
             <div class="media media-custom d-block mb-12 h-100">
               <div class="media-body" style="text-align: center;">
