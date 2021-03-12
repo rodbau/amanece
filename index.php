@@ -43,7 +43,7 @@
             <li class="nav-item"><a class="nav-link" href="#section-team">Equipo</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-events">Tips</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-products">Productos</a></li>
-            <li class="nav-item"><a class="nav-link" href="http://marykay.com.ar/?&docid=8466065f-f4e1-4ae1-9213-1a76a8ae6ca9&t=ecat_LookBook%20Marzo%20Abril%202021&cid=eCat_app_Share" target="_blank">Catálogo</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://www.marykay.com.ar/ecatalog?&docid=8466065f-f4e1-4ae1-9213-1a76a8ae6ca9&cid=direct&t=eCat_LookBookMarzoAbril2021" target="_blank">Catálogo</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-contact">Contacto</a></li>
           </ul>
         </div>
@@ -214,7 +214,7 @@
         <div class="row justify-content-center text-center mb-5">
           <div class="col-md-7">
             <h2 class="heading" data-aos="fade-up">Productos</h2>
-            <p data-aos="fade-up" data-aos-delay="100">Les acercamos algunos de los mejores productos que ofrecemos.<a class="fa fa-file fa-lg" style="color: gray;" href="images/Look_Verano_2021_web.pdf" target="_blank"></a></p>
+            <p data-aos="fade-up" data-aos-delay="100">Les acercamos algunos de los mejores productos que ofrecemos.</p>
           </div>
         </div>
         <div class="row">
