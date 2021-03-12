@@ -144,15 +144,14 @@
         </div>
 
       </div>
-    </div>
 
-            <div class="row">
+                  <div class="row">
           <div class="col-lg-4 col-md-6 col-sm-6 col-12 post" data-aos="fade-up" data-aos-delay="100">
 
             <div class="media media-custom d-block mb-12 h-100">
-              <div class="media-body">
+              <div class="media-body" style="text-align: center;">
                 <span class="meta-post"> </span>
-                <h2 class="mt-0 mb-3"><a href="#">Integrantes del equipo</a></h2>
+                <h2 class="mt-0 mb-3"><p>Integrantes del equipo</p></h2>
                 <p>Cecilia - Judit - Maria del Carmen - Victor - Mirta - Lorena D - Paula - Fiorella - Lorena H - Vanesa - Victoria - Silvia</p>
               </div>
             </div>
@@ -160,6 +159,9 @@
           </div>
 
       </div>
+    </div>
+
+
 
     <section class="section blog-post-entry bg-light" id="section-events">
       <div class="container">
