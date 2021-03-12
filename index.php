@@ -151,7 +151,7 @@
             <div class="media media-custom d-block mb-12 h-100">
               <div class="media-body" style="text-align: center;">
                 <span class="meta-post"> </span>
-                <h2 class="mt-0 mb-3"><p>Integrantes del equipo</p></h2>
+                <h2 class="mt-0 mb-3"><p>Junto a este gran staff</p></h2>
                 <p>Cecilia - Judit - Maria del Carmen - Victor - Mirta - Lorena D - Paula - Fiorella - Lorena H - Vanesa - Victoria - Silvia</p>
               </div>
             </div>
