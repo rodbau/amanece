@@ -87,6 +87,32 @@
         </div>
       </div>
 
+              <div class="col-md-6 col-lg-6" data-aos="fade-up" data-aos-delay="200">
+          <div class="block-2">
+            <!-- .hover -->
+            <div class="flipper">
+              <div class="front" style="background-image: url(images/person_1.jpg);">
+                <div class="box">
+                  <h2>Carolina Curutchet</h2>
+                  <p>carolina.amanecearg@gmail.com</p>
+                </div>
+              </div>
+              <div class="back">
+                <!-- back content -->
+                <blockquote>
+                  <p>&ldquo;Contadora Pública desde hace 14 años y Directora de Ventas Independiente de Mary Kay desde hace más de 2 años. Su trayectoria avalada por su experiencia, capacitaciones y seminarios será el pilar principal para diseñar la rutina que más se adecue al bienestar de nuestros clientes. Es la persona que capacitará continuamente a los que decidan sumarse al equipo.&rdquo;</p>
+                </blockquote>
+                <div class="author d-flex">
+                  <div class="image mr-3 align-self-center">
+                    <img src="images/person_1.jpg" alt="">
+                  </div>
+                  <div class="name align-self-center">Carolina <span class="position"></span></div>
+                </div>
+              </div>
+            </div>
+          </div> <!-- .flip-container -->
+        </div>  
+
       <div class="row">
         <div class="col-md-6 col-lg-6" data-aos="fade-up" data-aos-delay="100">
           <div class="block-2">
@@ -111,32 +137,6 @@
                     <img src="images/person_3.jpg" alt="">
                   </div>
                   <div class="name align-self-center">Domingo <span class="position"></span></div>
-                </div>
-              </div>
-            </div>
-          </div> <!-- .flip-container -->
-        </div>
-
-        <div class="col-md-6 col-lg-6" data-aos="fade-up" data-aos-delay="200">
-          <div class="block-2">
-            <!-- .hover -->
-            <div class="flipper">
-              <div class="front" style="background-image: url(images/person_1.jpg);">
-                <div class="box">
-                  <h2>Carolina Curutchet</h2>
-                  <p>carolina.amanecearg@gmail.com</p>
-                </div>
-              </div>
-              <div class="back">
-                <!-- back content -->
-                <blockquote>
-                  <p>&ldquo;Contadora Pública desde hace 14 años y Directora de Ventas Independiente de Mary Kay desde hace más de 2 años. Su trayectoria avalada por su experiencia, capacitaciones y seminarios será el pilar principal para diseñar la rutina que más se adecue al bienestar de nuestros clientes. Es la persona que capacitará continuamente a los que decidan sumarse al equipo.&rdquo;</p>
-                </blockquote>
-                <div class="author d-flex">
-                  <div class="image mr-3 align-self-center">
-                    <img src="images/person_1.jpg" alt="">
-                  </div>
-                  <div class="name align-self-center">Carolina <span class="position"></span></div>
                 </div>
               </div>
             </div>
@@ -220,9 +220,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="home-slider major-caousel owl-carousel mb-5" data-aos="fade-up" data-aos-delay="200">
-              <div class="slider-item">
-                <a href="images/slider-5.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-5.jpg" alt="Image placeholder" class="img-fluid"></a>
-              </div>
+              
               <div class="slider-item">
                 <a href="images/slider-1.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-1.jpg" alt="Image placeholder" class="img-fluid"></a>
               </div>
@@ -235,10 +233,6 @@
               <div class="slider-item">
                 <a href="images/slider-4.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-4.jpg" alt="Image placeholder" class="img-fluid"></a>
               </div>
-              <div class="slider-item">
-                <a href="images/slider-6.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-6.jpg" alt="Image placeholder" class="img-fluid"></a>
-              </div>
-
             </div>
             <!-- END slider -->
           </div>
