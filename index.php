@@ -42,7 +42,7 @@
             <li class="nav-item"><a class="nav-link" href="#section-about">Sobre Nosotros</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-team">Equipo</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-events">Tips</a></li>
-            <li class="nav-item"><a class="nav-link" href="#section-products">Productos</a></li>
+            <li class="nav-item"><a class="nav-link" href="#section-products">Novedades</a></li>
             <li class="nav-item"><a class="nav-link" href="images/LookMarzoAbril2021web2_V.pdf" target="_blank">Catálogo</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-contact">Contacto</a></li>
           </ul>
@@ -151,7 +151,7 @@
             <div class="media media-custom d-block mb-12 h-100">
               <div class="media-body" style="text-align: center;">
                 <span class="meta-post"> </span>
-                <h2 class="mt-0 mb-3"><p>Junto a este gran staff</p></h2>
+                <h2 class="mt-0 mb-3"><p>Junto a este gran equipo</p></h2>
                 <p>Cecilia - Judit - Maria del Carmen - Victor - Mirta - Lorena D - Paula - Fiorella - Lorena H - Vanesa - Victoria - Silvia</p>
               </div>
             </div>
@@ -213,8 +213,8 @@
       <div class="container">
         <div class="row justify-content-center text-center mb-5">
           <div class="col-md-7">
-            <h2 class="heading" data-aos="fade-up">Productos</h2>
-            <p data-aos="fade-up" data-aos-delay="100">Les acercamos algunos de los mejores productos que ofrecemos.</p>
+            <h2 class="heading" data-aos="fade-up">Novedades</h2>
+            <p data-aos="fade-up" data-aos-delay="100">Les acercamos algunas de las últimas novedades.</p>
           </div>
         </div>
         <div class="row">
@@ -351,7 +351,7 @@
               <li><a class="nav-link" href="#section-about">Sobre Nosotros</a></li>
               <li><a class="nav-link" href="#section-team">Equipo</a></li>
               <li><a class="nav-link" href="#section-events">Tips</a></li>
-              <li><a class="nav-link" href="#section-products">Productos</a></li>
+              <li><a class="nav-link" href="#section-products">Novedades</a></li>
               <li><a class="nav-link" href="#section-contact">Contacto</a></li>
             </ul>
           </div>
