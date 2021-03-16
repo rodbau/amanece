@@ -86,8 +86,9 @@
           <h2 class="heading" data-aos="fade-up">Equipo</h2>
         </div>
       </div>
+      <div class="row">
 
-              <div class="col-md-6 col-lg-6" data-aos="fade-up" data-aos-delay="200">
+              <div class="col-md-6 col-lg-6" data-aos="fade-up" data-aos-delay="100">
           <div class="block-2">
             <!-- .hover -->
             <div class="flipper">
@@ -113,7 +114,6 @@
           </div> <!-- .flip-container -->
         </div>  
 
-      <div class="row">
         <div class="col-md-6 col-lg-6" data-aos="fade-up" data-aos-delay="100">
           <div class="block-2">
             <div class="flipper">
@@ -146,7 +146,7 @@
       </div>
 
                   <div class="row">
-          <div class="col-lg-12 col-md-12 col-sm-12 col-12 post" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-12 col-md-12 col-sm-12 col-12 post" data-aos="fade-up" data-aos-delay="200">
 
             <div class="media media-custom d-block mb-12 h-100">
               <div class="media-body" style="text-align: center;">
