@@ -233,6 +233,9 @@
               <div class="slider-item">
                 <a href="images/slider-4.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-4.jpg" alt="Image placeholder" class="img-fluid"></a>
               </div>
+              <div class="slider-item">
+                <a href="images/video.mp4" data-fancybox="images" data-caption="Caption for this image"><video src="images/video.mp4" alt="Image placeholder" class="img-fluid"></a>
+              </div>
             </div>
             <!-- END slider -->
           </div>
