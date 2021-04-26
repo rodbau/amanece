@@ -360,7 +360,7 @@
           <p class="col-md-1 text-right social">
             <a href="https://www.facebook.com/Amanece-Argentina-111084110765846/"><span class="fa fa-facebook"></span></a>
             <a href="https://www.instagram.com/amanece.arg/"><span class="fa fa-instagram"></span></a>
-            
+            <a href="https://t.me/amanecearg"><span class="fa fa-telegram"></span></a>            
           </p>
         </div>
       </div>
