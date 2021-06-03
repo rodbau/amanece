@@ -43,7 +43,7 @@
             <li class="nav-item"><a class="nav-link" href="#section-team">Equipo</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-events">Tips</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-products">Novedades</a></li>
-            <li class="nav-item"><a class="nav-link" href="images/LookMarzoAbril2021web2_V.pdf" target="_blank">Catálogo</a></li>
+            <li class="nav-item"><a class="nav-link" href="images/Aplausos-junio-arg-ecatalog.pdf" target="_blank">Catálogo</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-contact">Contacto</a></li>
           </ul>
         </div>
@@ -232,9 +232,6 @@
               </div>
               <div class="slider-item">
                 <a href="images/slider-4.jpg" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-4.jpg" alt="Image placeholder" class="img-fluid"></a>
-              </div>
-              <div class="slider-item">
-                <a href="images/video.mp4" data-fancybox="images" data-caption="Caption for this image"><img src="images/slider-5.jpg" alt="Image placeholder" class="img-fluid"></a>
               </div>
             </div>
             <!-- END slider -->
