@@ -43,7 +43,7 @@
             <li class="nav-item"><a class="nav-link" href="#section-team">Equipo</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-events">Tips</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-products">Novedades</a></li>
-            <li class="nav-item"><a class="nav-link" href="images/Aplausos-junio-arg-ecatalog.pdf" target="_blank">Catálogo</a></li>
+            <li class="nav-item"><a class="nav-link" href="images/Catálogo.pdf" target="_blank">Catálogo</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-contact">Contacto</a></li>
           </ul>
         </div>
