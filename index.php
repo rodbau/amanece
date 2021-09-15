@@ -45,6 +45,7 @@
             <li class="nav-item"><a class="nav-link" href="#section-products">Novedades</a></li>
             <li class="nav-item"><a class="nav-link" href="images/Catálogo.pdf" target="_blank">Catálogo</a></li>
             <li class="nav-item"><a class="nav-link" href="#section-contact">Contacto</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://n9.cl/opdzn" target="_blank">Participá y ganá</a></li>
           </ul>
         </div>
       </div>
