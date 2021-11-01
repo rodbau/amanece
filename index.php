@@ -333,7 +333,7 @@
             <h2 class="text-white font-weight-bold">Los mejores productos y el mejor asesoramiento</h2>
           </div>
         </div>
-      </div>
+      </div>  
     </section>
 
     <footer class="section footer-section">
@@ -351,7 +351,7 @@
           </div>
           <div class="col-md-4 mb-5 pr-md-5 contact-info">
             <p><span class="d-block"><span class="ion-ios-location h5 mr-3 text-primary"></span>Localidad:</span> <span> Lanús, <br> Bs. As. Argentina</span></p>
-            <p><span class="d-block"><span class="ion-ios-telephone h5 mr-3 text-primary"></span>Teléfono:</span> <span> +541173601183 Carolina <a href="https://api.whatsapp.com/send?phone=541173601183&text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20Amanece!"><span class="fa fa-whatsapp"></span></a> <br>+541168922663 Domingo <a href="https://api.whatsapp.com/send?phone=541168922663&text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20Amanece!"><span class="fa fa-whatsapp"></span></a></span></p>
+            <p><span class="d-block"><span class="ion-ios-telephone h5 mr-3 text-primary"></span>WhatsApp:</span> <span> +541173601183 <a href="https://api.whatsapp.com/send?phone=541173601183&text=Me%20gustar%C3%ADa%20conocer%20m%C3%A1s%20sobre%20Amanece!"><span class="fa fa-whatsapp"></span></a> </p>
             <p><span class="d-block"><span class="ion-ios-email h5 mr-3 text-primary"></span>Email:</span> <span><a href="mailto:info.amanecearg@gmail.com">info.amanecearg@gmail.com</a></span></p>
           </div>
           <p class="col-md-1 text-right social">
