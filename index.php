@@ -101,7 +101,7 @@
               <div class="back">
                 <!-- back content -->
                 <blockquote>
-                  <p>&ldquo;Contadora Pública desde hace 14 años y Directora de Ventas Independiente de Mary Kay desde hace más de 2 años. Su trayectoria avalada por su experiencia, capacitaciones y seminarios será el pilar principal para diseñar la rutina que más se adecue al bienestar de nuestros clientes. Es la persona que capacitará continuamente a los que decidan sumarse al equipo.&rdquo;</p>
+                  <p>&ldquo;Contadora Pública desde hace 16 años y Directora de Ventas Independiente de Mary Kay desde hace más de 2 años. Su trayectoria avalada por su experiencia, capacitaciones y seminarios será el pilar principal para diseñar la rutina que más se adecue al bienestar de nuestros clientes. Es la persona que capacitará continuamente a los que decidan sumarse al equipo.&rdquo;</p>
                 </blockquote>
                 <div class="author d-flex">
                   <div class="image mr-3 align-self-center">
@@ -126,9 +126,9 @@
               <div class="back">
                 <!-- back content -->
                 <blockquote>
-                  <p>&ldquo;Con 23 años de experiencia en el área de los medios de comunicación y publicidad, se especializa en la organización, integración y liderazgo de equipos en latinoamérica trabajando en reconocidas empresas multinacionales.
+                  <p>&ldquo;Con 25 años de experiencia en el área de los medios de comunicación y publicidad, se especializa en la organización, integración y liderazgo de equipos en Latinoamérica trabajando en reconocidas empresas multinacionales.
 
-                    Su sólido conocimiento será un aporte esencial en AMANECE, incorporando su experiencia para el desarrollo en la carrera comercial de todos los que decidan sumarse al equipo.
+                    Su sólido conocimiento será un aporte esencial en AMANECE, incorporando su experiencia como Coach para el desarrollo en la carrera comercial de todos los que decidan sumarse al equipo.
 
                     &rdquo;</p>
                 </blockquote>
